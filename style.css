@@ -1,0 +1,82 @@
+/* General Styles */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  min-height: 100vh;
+  background-color: beige;
+}
+
+h1 {
+  font-size: 3.5rem;
+  color: rgb(219, 186, 68);
+}
+
+header,
+main {
+  width: 70%;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1em;
+  font-size: 1.5rem;
+}
+select {
+  font-size: 1.3rem;
+}
+
+span {
+  margin-right: 1.5em;
+}
+
+button {
+  padding: 0.5em 1em;
+  font-size: 1rem;
+  background-color: rgb(225, 213, 169);
+  color: rgb(77, 66, 66);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 1rem;
+  font-size: 1.3rem;
+}
+
+.output {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin: 1em;
+  width: 70%;
+  background-color: rgb(221, 199, 118);
+  border-radius: 25px;
+  font-size: 1.1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 10px;
+}
+
+#train {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1em;
+  padding: 1em;
+  width: 280px;
+  background-color: rgb(225, 213, 169);
+  border-radius: 5px;
+}
+
+.train_direction_label {
+  font-size: 1.3rem;
+  margin: 0.5rem;
+}
+
+.train_data_up_down {
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  margin: 0.5rem;
+}

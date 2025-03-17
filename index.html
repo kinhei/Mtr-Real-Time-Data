@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Real-time MTR Train Data</title>
+  </head>
+  <body>
+    <h1>Real-Time MTR Train Info 🚆</h1>
+    <header>
+      <div id="line_header">
+        <label for="line">Choose the MTR line:</label>
+        <select name="line" id="line">
+          <option value="AEL" selected>Airport Express</option>
+          <option value="KTL">Kwun Tong Line</option>
+          <option value="TWL">Tsuen Wan Line</option>
+          <option value="ISL">Island Line</option>
+          <option value="TCL">Tung Chung Line</option>
+          <option value="TKL">Tseung Kwan O Line</option>
+          <option value="EAL">East Rail Line</option>
+          <option value="TML">Tuen Ma Line</option>
+          <option value="SIL">South Island Line</option>
+          <option value="DRL">Disneyland Resort Line</option>
+        </select>
+      </div>
+
+      <div id="station_header">
+        <label for="station">Choose the Station:</label>
+        <select name="station" id="station">
+          <option class="AEL" value="HOK">Hong Kong</option>
+          <option class="AEL" value="KOW">Kowloon</option>
+          <option class="AEL" value="TSY">Tsing Yi</option>
+          <option class="AEL" value="AIR">Airport</option>
+          <option class="AEL" value="AWE">AsiaWorld Expo</option>
+        </select>
+      </div>
+    </header>
+
+    <button id="bttn">Get Train Data</button>
+
+    <main id="train_data">
+      <div class="train_data_up_down">
+        <span class="train_direction_label"><b>Direction Up:</b></span>
+        <div id="output_up" class="output"></div>
+      </div>
+      <div class="train_data_up_down">
+        <span class="train_direction_label"><b>Direction Down:</b></span>
+        <div id="output_dn" class="output"></div>
+      </div>
+      <script src="index.js"></script>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,525 @@
+[
+    {
+        "AEL": {
+            "AWE": {
+                "chiName": "博覽館",
+                "engName": "AsiaWorld-Expo"
+            },
+            "AIR": {
+                "chiName": "機場",
+                "engName": "Airport"
+            },
+            "TSY": {
+                "chiName": "青衣",
+                "engName": "Tsing Yi"
+            },
+            "KOW": {
+                "chiName": "九龍",
+                "engName": "Kowloon"
+            },
+            "HOK": {
+                "chiName": "香港",
+                "engName": "Hong Kong"
+            }
+        }
+    },
+    {
+        "DRL": {
+            "SUN": {
+                "chiName": "欣澳",
+                "engName": "Sunny Bay"
+            },
+            "DIS": {
+                "chiName": "迪士尼",
+                "engName": "Disneyland Resort"
+            }
+        }
+    },
+    {
+        "EAL": {
+            "LOW": {
+                "chiName": "羅湖",
+                "engName": "Lo Wu"
+            },
+            "SHS": {
+                "chiName": "上水",
+                "engName": "Sheung Shui"
+            },
+            "FAN": {
+                "chiName": "粉嶺",
+                "engName": "Fanling"
+            },
+            "TWO": {
+                "chiName": "太和",
+                "engName": "Tai Wo"
+            },
+            "TAP": {
+                "chiName": "大埔墟",
+                "engName": "Tai Po Market"
+            },
+            "UNI": {
+                "chiName": "大學",
+                "engName": "University"
+            },
+            "FOT": {
+                "chiName": "火炭",
+                "engName": "Fo Tan"
+            },
+            "SHT": {
+                "chiName": "沙田",
+                "engName": "Sha Tin"
+            },
+            "TAW": {
+                "chiName": "大圍",
+                "engName": "Tai Wai"
+            },
+            "KOT": {
+                "chiName": "九龍塘",
+                "engName": "Kowloon Tong"
+            },
+            "MKK": {
+                "chiName": "旺角東",
+                "engName": "Mong Kok East"
+            },
+            "HUH": {
+                "chiName": "紅磡",
+                "engName": "Hung Hom"
+            },
+            "EXC": {
+                "chiName": "會展",
+                "engName": "Exhibition Centre"
+            },
+            "ADM": {
+                "chiName": "金鐘",
+                "engName": "Admiralty"
+            },
+            "LMC": {
+                "chiName": "落馬洲",
+                "engName": "Lok Ma Chau"
+            }
+        }
+    },
+    {
+        "ISL": {
+            "CHW": {
+                "chiName": "柴灣",
+                "engName": "Chai Wan"
+            },
+            "HFC": {
+                "chiName": "杏花邨",
+                "engName": "Heng Fa Chuen"
+            },
+            "SKW": {
+                "chiName": "筲箕灣",
+                "engName": "Shau Kei Wan"
+            },
+            "SWH": {
+                "chiName": "西灣河",
+                "engName": "Sai Wan Ho"
+            },
+            "TAK": {
+                "chiName": "太古",
+                "engName": "Tai Koo"
+            },
+            "QUB": {
+                "chiName": "鰂魚涌",
+                "engName": "Quarry Bay"
+            },
+            "NOP": {
+                "chiName": "北角",
+                "engName": "North Point"
+            },
+            "FOH": {
+                "chiName": "炮台山",
+                "engName": "Fortress Hill"
+            },
+            "TIH": {
+                "chiName": "天后",
+                "engName": "Tin Hau"
+            },
+            "CAB": {
+                "chiName": "銅鑼灣",
+                "engName": "Causeway Bay"
+            },
+            "WAC": {
+                "chiName": "灣仔",
+                "engName": "Wan Chai"
+            },
+            "ADM": {
+                "chiName": "金鐘",
+                "engName": "Admiralty"
+            },
+            "CEN": {
+                "chiName": "中環",
+                "engName": "Central"
+            },
+            "SHW": {
+                "chiName": "上環",
+                "engName": "Sheung Wan"
+            },
+            "SYP": {
+                "chiName": "西營盤",
+                "engName": "Sai Ying Pun"
+            },
+            "HKU": {
+                "chiName": "香港大學",
+                "engName": "HKU"
+            },
+            "KET": {
+                "chiName": "堅尼地城",
+                "engName": "Kennedy Town"
+            }
+        }
+    },
+    {
+        "KTL": {
+            "TIK": {
+                "chiName": "調景嶺",
+                "engName": "Tiu Keng Leng"
+            },
+            "YAT": {
+                "chiName": "油塘",
+                "engName": "Yau Tong"
+            },
+            "LAT": {
+                "chiName": "藍田",
+                "engName": "Lam Tin"
+            },
+            "KWT": {
+                "chiName": "觀塘",
+                "engName": "Kwun Tong"
+            },
+            "NTK": {
+                "chiName": "牛頭角",
+                "engName": "Ngau Tau Kok"
+            },
+            "KOB": {
+                "chiName": "九龍灣",
+                "engName": "Kowloon Bay"
+            },
+            "CHH": {
+                "chiName": "彩虹",
+                "engName": "Choi Hung"
+            },
+            "DIH": {
+                "chiName": "鑽石山",
+                "engName": "Diamond Hill"
+            },
+            "WTS": {
+                "chiName": "黃大仙",
+                "engName": "Wong Tai Sin"
+            },
+            "LOF": {
+                "chiName": "樂富",
+                "engName": "Lok Fu"
+            },
+            "KOT": {
+                "chiName": "九龍塘",
+                "engName": "Kowloon Tong"
+            },
+            "SKM": {
+                "chiName": "石硤尾",
+                "engName": "Shek Kip Mei"
+            },
+            "PRE": {
+                "chiName": "太子",
+                "engName": "Prince Edward"
+            },
+            "MOK": {
+                "chiName": "旺角",
+                "engName": "Mong Kok"
+            },
+            "YMT": {
+                "chiName": "油麻地",
+                "engName": "Yau Ma Tei"
+            },
+            "HOM": {
+                "chiName": "何文田",
+                "engName": "Ho Man Tin"
+            },
+            "WHA": {
+                "chiName": "黃埔",
+                "engName": "Whampoa"
+            }
+        }
+    },
+    {
+        "TML": {
+            "WKS": {
+                "chiName": "烏溪沙",
+                "engName": "Wu Kai Sha"
+            },
+            "MOS": {
+                "chiName": "馬鞍山",
+                "engName": "Ma On Shan"
+            },
+            "HEO": {
+                "chiName": "恆安",
+                "engName": "Heng On"
+            },
+            "TSH": {
+                "chiName": "大水坑",
+                "engName": "Tai Shui Hang"
+            },
+            "SHM": {
+                "chiName": "石門",
+                "engName": "Shek Mun"
+            },
+            "CIO": {
+                "chiName": "第一城",
+                "engName": "City One"
+            },
+            "STW": {
+                "chiName": "沙田圍",
+                "engName": "Sha Tin Wai"
+            },
+            "CKT": {
+                "chiName": "車公廟",
+                "engName": "Che Kung Temple"
+            },
+            "TAW": {
+                "chiName": "大圍",
+                "engName": "Tai Wai"
+            },
+            "HIK": {
+                "chiName": "顯徑",
+                "engName": "Hin Keng"
+            },
+            "DIH": {
+                "chiName": "鑽石山",
+                "engName": "Diamond Hill"
+            },
+            "KAT": {
+                "chiName": "啟德",
+                "engName": "Kai Tak"
+            },
+            "SUW": {
+                "chiName": "宋皇臺",
+                "engName": "Sung Wong Toi"
+            },
+            "TKW": {
+                "chiName": "土瓜灣",
+                "engName": "To Kwa Wan"
+            },
+            "HOM": {
+                "chiName": "何文田",
+                "engName": "Ho Man Tin"
+            },
+            "HUH": {
+                "chiName": "紅磡",
+                "engName": "Hung Hom"
+            },
+            "ETS": {
+                "chiName": "尖東",
+                "engName": "East Tsim Sha Tsui"
+            },
+            "AUS": {
+                "chiName": "柯士甸",
+                "engName": "Austin"
+            },
+            "NAC": {
+                "chiName": "南昌",
+                "engName": "Nam Cheong"
+            },
+            "MEF": {
+                "chiName": "美孚",
+                "engName": "Mei Foo"
+            },
+            "TWW": {
+                "chiName": "荃灣西",
+                "engName": "Tsuen Wan West"
+            },
+            "KSR": {
+                "chiName": "錦上路",
+                "engName": "Kam Sheung Road"
+            },
+            "YUL": {
+                "chiName": "元朗",
+                "engName": "Yuen Long"
+            },
+            "LOP": {
+                "chiName": "朗屏",
+                "engName": "Long Ping"
+            },
+            "TIS": {
+                "chiName": "天水圍",
+                "engName": "Tin Shui Wai"
+            },
+            "SIH": {
+                "chiName": "兆康",
+                "engName": "Siu Hong"
+            },
+            "TUM": {
+                "chiName": "屯門",
+                "engName": "Tuen Mun"
+            }
+        }
+    },
+    {
+        "TCL": {
+            "TUC": {
+                "chiName": "東涌",
+                "engName": "Tung Chung"
+            },
+            "SUN": {
+                "chiName": "欣澳",
+                "engName": "Sunny Bay"
+            },
+            "TSY": {
+                "chiName": "青衣",
+                "engName": "Tsing Yi"
+            },
+            "LAK": {
+                "chiName": "茘景",
+                "engName": "Lai King"
+            },
+            "NAC": {
+                "chiName": "南昌",
+                "engName": "Nam Cheong"
+            },
+            "OLY": {
+                "chiName": "奧運",
+                "engName": "Olympic"
+            },
+            "KOW": {
+                "chiName": "九龍",
+                "engName": "Kowloon"
+            },
+            "HOK": {
+                "chiName": "香港",
+                "engName": "Hong Kong"
+            }
+        }
+    },
+    {
+        "TKL": {
+            "POA": {
+                "chiName": "寶琳",
+                "engName": "Po Lam"
+            },
+            "HAH": {
+                "chiName": "坑口",
+                "engName": "Hang Hau"
+            },
+            "TKO": {
+                "chiName": "將軍澳",
+                "engName": "Tseung Kwan O"
+            },
+            "TIK": {
+                "chiName": "調景嶺",
+                "engName": "Tiu Keng Leng"
+            },
+            "YAT": {
+                "chiName": "油塘",
+                "engName": "Yau Tong"
+            },
+            "QUB": {
+                "chiName": "鰂魚涌",
+                "engName": "Quarry Bay"
+            },
+            "NOP": {
+                "chiName": "北角",
+                "engName": "North Point"
+            },
+            "LHP": {
+                "chiName": "康城",
+                "engName": "LOHAS Park"
+            }
+        }
+    },
+    {
+        "TWL": {
+            "TSW": {
+                "chiName": "荃灣",
+                "engName": "Tsuen Wan"
+            },
+            "TWH": {
+                "chiName": "大窩口",
+                "engName": "Tai Wo Hau"
+            },
+            "KWH": {
+                "chiName": "葵興",
+                "engName": "Kwai Hing"
+            },
+            "KWF": {
+                "chiName": "葵芳",
+                "engName": "Kwai Fong"
+            },
+            "LAK": {
+                "chiName": "茘景",
+                "engName": "Lai King"
+            },
+            "MEF": {
+                "chiName": "美孚",
+                "engName": "Mei Foo"
+            },
+            "LCK": {
+                "chiName": "茘枝角",
+                "engName": "Lai Chi Kok"
+            },
+            "CSW": {
+                "chiName": "長沙灣",
+                "engName": "Cheung Sha Wan"
+            },
+            "SSP": {
+                "chiName": "深水埗",
+                "engName": "Sham Shui Po"
+            },
+            "PRE": {
+                "chiName": "太子",
+                "engName": "Prince Edward"
+            },
+            "MOK": {
+                "chiName": "旺角",
+                "engName": "Mong Kok"
+            },
+            "YMT": {
+                "chiName": "油麻地",
+                "engName": "Yau Ma Tei"
+            },
+            "JOR": {
+                "chiName": "佐敦",
+                "engName": "Jordan"
+            },
+            "TST": {
+                "chiName": "尖沙咀",
+                "engName": "Tsim Sha Tsui"
+            },
+            "ADM": {
+                "chiName": "金鐘",
+                "engName": "Admiralty"
+            },
+            "CEN": {
+                "chiName": "中環",
+                "engName": "Central"
+            }
+        }
+    },
+    {
+        "SIL": {
+            "ADM": {
+                "chiName": "金鐘",
+                "engName": "Admiralty"
+            },
+            "OCP": {
+                "chiName": "海洋公園",
+                "engName": "Ocean Park"
+            },
+            "WCH": {
+                "chiName": "黃竹坑",
+                "engName": "Wong Chuk Hang"
+            },
+            "LET": {
+                "chiName": "利東",
+                "engName": "Lei Tung"
+            },
+            "SOH": {
+                "chiName": "海怡半島",
+                "engName": "South Horizons"
+            }
+        }
+    },
+    {
+        "": {}
+    }
+]
